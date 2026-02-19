@@ -14,4 +14,5 @@ def MoveZeroToEnd(nums):
             j+=1
     return nums
 nums = [3,4,0,0,4,6,2,0,1,0]
+
 print(MoveZeroToEnd(nums))
